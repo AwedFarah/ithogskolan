@@ -1,6 +1,6 @@
 import random
 print("Välkommen till Sten-sax-påse")
-
+h="a"
 point = int(input("Hur många poäng vill du köra till?: "))
 
 my_scour = 0
