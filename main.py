@@ -33,3 +33,4 @@ while True:
         computer_scour +=1
 
 
+hej="hej"
